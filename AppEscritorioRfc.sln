@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEscritorioRfc", "AppEscritorioRfc\AppEscritorioRfc.csproj", "{AAE4037A-78F0-43DA-ACC9-4EAC7AD166D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfcFacil", "..\AppEscritorioRfc01\RfcFacil\RfcFacil.csproj", "{67C4B9AB-12C1-4ADD-8841-09233EBDEB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE4037A-78F0-43DA-ACC9-4EAC7AD166D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE4037A-78F0-43DA-ACC9-4EAC7AD166D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE4037A-78F0-43DA-ACC9-4EAC7AD166D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE4037A-78F0-43DA-ACC9-4EAC7AD166D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C4B9AB-12C1-4ADD-8841-09233EBDEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C4B9AB-12C1-4ADD-8841-09233EBDEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C4B9AB-12C1-4ADD-8841-09233EBDEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C4B9AB-12C1-4ADD-8841-09233EBDEB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C777F136-9762-4567-BD9D-39A85142036F}
+	EndGlobalSection
+EndGlobal

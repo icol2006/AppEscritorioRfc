@@ -1,0 +1,16 @@
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\AppEscritorioRfc.exe.config
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\AppEscritorioRfc.exe
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\AppEscritorioRfc.pdb
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.csprojAssemblyReference.cache
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.Properties.Resources.resources
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.csproj.GenerateResource.cache
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.csproj.CoreCompileInputs.cache
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.exe
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.pdb
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.Form1.resources
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\BouncyCastle.Crypto.dll
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\itextsharp.dll
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\itextsharp.xml
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\obj\Debug\AppEscritorioRfc.csproj.CopyComplete
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\RfcFacil.dll
+E:\Workana\043-Crear un acceso web que de como resultado el generar un documento en word o en pdf\Software\AppEscritorioRfc\AppEscritorioRfc\bin\Debug\RfcFacil.pdb
